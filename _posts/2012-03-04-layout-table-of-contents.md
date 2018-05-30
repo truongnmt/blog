@@ -3,6 +3,7 @@ title: "Layout: Post with Table Of Contents"
 category: Layout
 tags:
   - table of contents
+published: false
 ---
 
 Enable table of contents on post or page by adding `{%raw %}{% include toc %}{% endraw %}` where you'd like it to appear.

@@ -2,6 +2,7 @@
 title: "Layout: Author Override"
 author: Billy Rick
 excerpt: "A post to test author overrides using a data file."
+published: false
 ---
 
 Sites that may have content authored from various individuals can be accommodated by using [data files](https://jekyllrb.com/docs/datafiles/).
@@ -22,7 +23,7 @@ Cornelius Fiddlebone:
   picture: "/images/bio-photo.jpg"
 ```
 
-**Step 2.** Assign one of the authors in `authors.yml` to a post or page you wish to override the `site.author` with. 
+**Step 2.** Assign one of the authors in `authors.yml` to a post or page you wish to override the `site.author` with.
 
 Example: To assign `Billy Rick` as an author for a post the following YAML Front Matter would be applied:
 
