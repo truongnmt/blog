@@ -4,7 +4,7 @@ title:  "Audio Blog #22 - Systems of Seniority"
 date:   2018-05-21 23:23:34 +0700
 categories: japanese
 ---
-Đây là bài dịch cho podcast: [Audio Blog #22 - Systems of Seniority](https://www.lingq.com/learn/ja/web/lesson/23/chunk/1/help)
+Bài dịch cho podcast: [Audio Blog #22 - Systems of Seniority](https://www.lingq.com/learn/ja/web/lesson/23/chunk/1/help)
 
 * 年功序列 ねんこうじょれつ thâm niên tuổi tác
 * お陰　かげ bóng
