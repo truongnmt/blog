@@ -42,7 +42,7 @@ categories: japan weekly
 ## カンダクラフト（Kanda Kraft)
 夜に全社飲み会です。１階でドイツ店があります。あまり美味しくないですが、今度ドイツビールはどうかなー！
 ![image-center]({{ 'images/IMG_7139.JPG' | absolute_url }}){: .align-center}
-Kanda Kraft, Bergbaum, Hafenstoff　飲んだ、ママ〜！
+*Kanda Kraft, Bergbaum, Hafenstoff　飲んだ、ママ〜！*
 
 ## Pioneer Toastmaster Club
 長い時間で持っていました。このミートアップは二週間一階行います。せっかくなのに、今回遅れましたー！別のミーティングしなければならないから。しょうがない。今回Sさんを誘いましたが、誘わないほううがいいでした。堅苦しくなくて、いつも苦労しているスピーチ人を笑います。大嫌うだ！
