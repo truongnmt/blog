@@ -18,13 +18,13 @@ categories: japan weekly
 今月毎週土曜日花火があります。夜7時から。その前、私はミルクティーを飲みたい。ベトナムにたくさんミルクティーがあります。TocoToco Dingtea RoyalTea ... 道でいつも見えます。ベトナムの首都ハノイはミルクティーがメーインです。南の方はコーヒーです。日本はほぼコーヒーですね。ミルクティーはGonchaだけです。今まで、一番懐かしいことはミルクティーですね。その日はすごく混んでいました。長く整列します。もうすぐ花火始めますが私はまだ行列していました。間に合わないかなだと思います。
 
 ついにメーイン種目です。私は沿岸で座って見ます。最高眺めだ！すごく満足です。
-<video muted autoplay controls>
-    <source src="images/XiaoYing_Video_1545494926489.mp4/myvideo.mp4" type="video/mp4">
+<video autoplay controls style="width:100%;">
+    <source src='/videos/XiaoYing_Video_1545494926489.mp4' type='video/mp4'>
 </video>
 
 日曜日にT先輩の家で鍋食べました。食べて、近く公園で散歩しました。
-<video muted autoplay controls>
-    <source src="images/IMG_7042.MOV" type="video/mp4">
+<video autoplay controls style="width:100%;">
+    <source src='/videos/IMG_7042.MOV' type='video/mp4'>
 </video>
 
 そして、すごく疲れし、眠いし、たが、S先輩はイルミネーションへ誘いました。せっかくなのに行きました。さすが綺麗でした。目が大きくて見ます。すごい〜！
